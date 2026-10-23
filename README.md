@@ -1,5 +1,7 @@
 # OpsPilot AI
 
+**Live demo:** [Open OpsPilot StorageFit AI](https://manmeetnain.github.io/opspilot-storagefit-ai/)
+
 OpsPilot AI is a portfolio-grade, vendor-neutral infrastructure operations cockpit. It demonstrates how storage, network, compute, and application telemetry can be correlated into one incident narrative with an explainable, human-approved remediation plan.
 
 ## Run locally
